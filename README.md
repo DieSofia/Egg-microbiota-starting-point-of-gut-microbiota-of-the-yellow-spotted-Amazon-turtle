@@ -1,0 +1,2 @@
+# Egg-microbiota-starting-point-of-gut-microbiota-of-the-yellow-spotted-Amazon-turtle
+Code used for the publication "Egg microbiota is the starting point of hatchling gut microbiota in the endangered yellow-spotted Amazon river turtle" where we report that the egg microbiota is the starting point for the development and maturation of the gut microbiota of hatchlings and juveniles of the yellow-spotted Amazon river turtle. Moreover, we show the influence of the environment on this seeding and maturation process. 
