@@ -12,5 +12,3 @@ What this repository contains:
 3. To_load -> In this folder you will find all the txt files you need to load for the Diversity, SourceTracker and Ancom analyses.
 
 
-
-git switch -C mybranch origin/mybranch~48
