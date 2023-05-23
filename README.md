@@ -8,7 +8,7 @@ For questions and requests please contact me at ana.carranco-narvaez@uni-ulm.de
 
 What this repository contains: 
 1. Publication_code -> code ready to be run in the R environment. I have tried to comment and explain what we have done, however, some analyses that were done for each sample group, are explained only once at the beginning of the analyses (i.e. for the SourceTracker and ANCOM analyses).
-2. Essentials -> In this folder you will find the RDS file containing the data for this work, the main SourceTracker code, and the main ANCOM code updated by Mark A. F. Gillingham.
+2. Essentials -> In this folder you will find the main SourceTracker code, and the main ANCOM code updated by Mark A. F. Gillingham.
 3. To_load -> In this folder you will find all the txt files you need to load for the Diversity, SourceTracker and Ancom analyses.
 
 
